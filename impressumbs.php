@@ -10,23 +10,23 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-light mb-3">
         <div class="container-fluid">
-          <a class="navbar-brand" href="hilltonbs.html">Hillton Hotel</a>
+          <a class="navbar-brand" href="index.php">Hillton Hotel</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link" href="registerbs.html">Registrierung</a>
+                <a class="nav-link" href="registerbs.php">Registrierung</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="loginbs.html">Login</a>
+                <a class="nav-link" href="loginbs.php">Login</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="hilfebs.html">Hilfe</a>
+                <a class="nav-link" href="hilfebs.php">Hilfe</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="impressumbs.html">Impressum</a>
+                <a class="nav-link active" aria-current="page" href="impressumbs.php">Impressum</a>
               </li>
             </ul>
           </div>
